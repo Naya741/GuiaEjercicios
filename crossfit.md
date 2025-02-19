@@ -48,3 +48,9 @@ Después de un entrenamiento intenso, es crucial enfriar el cuerpo para evitar l
 Estiramientos estáticos: Realiza estiramientos para los principales grupos musculares (piernas, hombros, espalda, brazos). Mantén cada estiramiento durante 20-30 segundos.
 Respiración profunda: Realiza respiraciones profundas para relajarte y bajar la frecuencia cardíaca.
 Rodillo de espuma (foam roller): Si tienes un rodillo de espuma, úsalo para masajear las áreas del cuerpo que están más tensas.
+#Consejos
+écnica ante todo: El CrossFit se basa en movimientos intensos, pero la técnica es lo más importante. Asegúrate de dominar los movimientos antes de agregar más peso o velocidad.
+Escucha a tu cuerpo: Si sientes que algo no está bien o que el entrenamiento es demasiado intenso, ajusta la intensidad o toma un descanso.
+Usa el equipo adecuado: Usa zapatillas deportivas adecuadas para CrossFit, que ofrezcan estabilidad y soporte para los levantamientos y movimientos rápidos.
+Mantén la intensidad: CrossFit es eficaz gracias a su alta intensidad, pero es importante mantener la calidad de los movimientos. A medida que progresas, puedes aumentar la carga o la velocidad, pero siempre respetando la técnica.
+Hidratación: Debido a la intensidad, es fundamental mantener una buena hidratación antes, durante y después del entrenamiento.
