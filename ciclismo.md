@@ -19,4 +19,11 @@ Entrenamiento de resistencia: Ritmo constante por largos períodos.
 Ciclismo de alta intensidad: Intervalos de velocidad y esfuerzo elevado.
 Hidrátate adecuadamente: Bebe agua antes, durante y después del entrenamiento.
 Finaliza con un enfriamiento: Reduce la intensidad gradualmente y estira los músculos principales.
-#Consejos y precauciones
+# Consejos
+Usa equipo adecuado: Un buen casco, ropa transpirable y guantes pueden mejorar la comodidad y seguridad.
+Varía las rutas y terrenos: Evita la monotonía alternando entre carreteras, caminos y ciclismo de montaña.
+Trabaja la cadencia: Un ritmo óptimo es de 70-100 revoluciones por minuto para evitar fatiga muscular.
+Mantén tu bicicleta en buen estado: Revisa neumáticos, frenos y transmisión regularmente.
+Acompaña con entrenamiento de fuerza: Complementa con ejercicios para el core y el tren superior.
+Escucha a tu cuerpo: No te sobreexijas y descansa cuando sea necesario.
+El ciclismo es una excelente opción para mejorar la salud, explorar nuevos lugares y disfrutar del ejercicio de manera dinámica y entretenida.
