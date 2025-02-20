@@ -20,4 +20,11 @@ Patadas de tijera: Trabaja la estabilidad y el control del core.
 Plancha: Mejora la fuerza y la postura corporal.
 Controla el movimiento: Prioriza la precisión sobre la velocidad.
 Finaliza con estiramientos: Relaja los músculos y mejora la recuperación.
-#Consejos y precauciones
+#Consejos
+Realiza los ejercicios con precisión: La calidad del movimiento es más importante que la cantidad.
+Mantén la activación del core: Es el centro de todos los movimientos.
+Usa ropa cómoda y ajustada: Facilita el control postural y evita restricciones.
+Respira de manera consciente: Coordina cada inhalación y exhalación con los movimientos.
+Progresa poco a poco: Aumenta la dificultad de los ejercicios a medida que mejoras tu control y fuerza.
+Escucha a tu cuerpo: Evita forzar posturas o movimientos que causen molestias.
+El pilates es una práctica accesible para todos los niveles que fortalece el cuerpo de manera equilibrada, promoviendo una mejor postura y bienestar general.
