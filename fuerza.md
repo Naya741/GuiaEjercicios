@@ -9,5 +9,17 @@ Acelera el metabolismo: Contribuye a la quema de calorías incluso en reposo.
 Corrige la postura: Refuerza la estabilidad del cuerpo y previene dolores musculares.
 Mejora el rendimiento deportivo: Incrementa la potencia, velocidad y agilidad.
 Regula el azúcar en sangre: Ayuda en la prevención de la diabetes tipo 2.
-#Instrucciones de como realizarlo
+#Instrucciones 
+Calentamiento: Realiza 5-10 minutos de movilidad articular y ejercicios ligeros para preparar los músculos.
+Elige el tipo de resistencia: Pesas, máquinas, bandas elásticas o peso corporal.
+Ejecuta el movimiento con buena técnica: Mantén la postura correcta para evitar lesiones.
+Series y repeticiones:
+Para fuerza máxima: 3-5 series de 3-6 repeticiones con alta carga.
+Para hipertrofia (crecimiento muscular): 3-4 series de 8-12 repeticiones con carga moderada.
+Para resistencia muscular: 2-3 series de 12-20 repeticiones con carga ligera.
+Descanso entre series:
+Fuerza máxima: 2-3 minutos.
+Hipertrofia: 30-90 segundos.
+Resistencia: 15-45 segundos.
+Finaliza con estiramientos: Ayudan a mejorar la flexibilidad y reducir el riesgo de lesiones.
 #Consejos y precauciones 
