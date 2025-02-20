@@ -19,4 +19,11 @@ Ejecuta los ejercicios con control: Evita rebotes bruscos para no forzar los mú
 Respira de manera profunda: Inhalar y exhalar lentamente ayuda a relajar el cuerpo.
 Duración: Dedica al menos 10-15 minutos a la sesión de flexibilidad.
 Incluye todos los grupos musculares: Piernas, espalda, brazos, cuello y torso.
-#Consejos y precauciones
+#Consejos
+Sé constante: La flexibilidad mejora con la práctica regular.
+No fuerces los límites: Estira hasta sentir tensión, pero sin dolor.
+Realiza estiramientos después del ejercicio: Esto ayuda a la recuperación muscular.
+Combina con otras disciplinas: Yoga y pilates son excelentes para mejorar la flexibilidad.
+Mantén una buena hidratación: Los músculos flexibles necesitan estar bien hidratados.
+Adapta los ejercicios a tu nivel: No todos tienen la misma movilidad, avanza gradualmente.
+Incluir ejercicios de flexibilidad en tu rutina diaria mejora la movilidad, previene lesiones y contribuye
