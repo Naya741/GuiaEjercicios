@@ -9,5 +9,14 @@ Reduce el impacto en las articulaciones: Es ideal para quienes buscan ejercicio 
 Favorece la pérdida de peso: Ayuda a quemar calorías y mejorar la composición corporal.
 Mejora la coordinación y el equilibrio: Beneficia la conexión entre mente y cuerpo.
 Reduce el estrés y la ansiedad: La práctica al aire libre o con música en interiores promueve la relajación.
-#Instrucciones de como realizarlo 
+# Instrucciones
+Ajusta tu bicicleta correctamente: Asegúrate de que el asiento y el manillar estén en la posición adecuada para evitar molestias o lesiones.
+Calienta antes de pedalear: Dedica 5-10 minutos a movilidad articular y pedaleo ligero.
+Mantén una postura adecuada: Espalda recta, codos ligeramente flexionados y manos relajadas en el manillar.
+Elige la intensidad según tu objetivo:
+Paseo recreativo: Ritmo moderado para mejorar la salud general.
+Entrenamiento de resistencia: Ritmo constante por largos períodos.
+Ciclismo de alta intensidad: Intervalos de velocidad y esfuerzo elevado.
+Hidrátate adecuadamente: Bebe agua antes, durante y después del entrenamiento.
+Finaliza con un enfriamiento: Reduce la intensidad gradualmente y estira los músculos principales.
 #Consejos y precauciones
