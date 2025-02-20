@@ -11,5 +11,13 @@ Mejora la concentración y la claridad mental: Fomenta la conexión entre cuerpo
 Optimiza la respiración: Aumenta la capacidad pulmonar y la oxigenación del cuerpo.
 Equilibra el sistema nervioso: Regula la respuesta al estrés y promueve la relajación.
 Favorece el descanso y la calidad del sueño: Reduce el insomnio y mejora la recuperación del cuerpo.
-#Instrucciones de como realizarlo
+#Instrucciones
+Prepara un espacio tranquilo: Busca un lugar sin distracciones para concentrarte en la práctica.
+Calienta el cuerpo: Realiza movimientos suaves para preparar músculos y articulaciones.
+Elige una secuencia de posturas:
+Principiantes: Postura del niño, perro boca abajo, cobra, guerrero I y II.
+Intermedio/avanzado: Puente, cuervo, torsiones, posturas de equilibrio.
+Respira conscientemente: Mantén una respiración profunda y controlada en cada postura.
+Mantén cada asana entre 15 y 60 segundos: Ajusta la duración según tu nivel y comodidad.
+Cierra con relajación y meditación: Dedica unos minutos a la postura de Savasana para integrar los beneficios.
 #Consejos y precauciones
