@@ -12,5 +12,17 @@ Quema calorías y mejora la composición corporal: Aumenta el gasto energético 
 Facilita los movimientos diarios: Mejora la capacidad para realizar actividades cotidianas sin esfuerzo.
 Reduce el riesgo de dolores musculares: Al trabajar la movilidad y estabilidad, disminuyen las molestias en la espalda y articulaciones.
 
-#Instrucciones de como realizarlo
+#Instrucciones
+Calentamiento: Dedica 5-10 minutos a ejercicios de movilidad y activación muscular.
+Ejercicios básicos del entrenamiento funcional:
+Sentadillas y zancadas (tren inferior)
+Flexiones y dominadas (tren superior)
+Plancha y giros de torso (core)
+Saltos y desplazamientos laterales (explosividad y coordinación)
+Estructura la rutina:
+Realiza circuitos de 4-6 ejercicios.
+Trabaja en intervalos de 30-60 segundos por ejercicio.
+Descansa entre 15-45 segundos según el nivel de intensidad.
+Progresión gradual: Aumenta la dificultad con variaciones, mayor resistencia o más repeticiones.
+Finaliza con estiramientos: Ayudan a relajar los músculos y mejorar la flexibilidad.
 #Consejos y precauciones
