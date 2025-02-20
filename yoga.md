@@ -20,4 +20,11 @@ Intermedio/avanzado: Puente, cuervo, torsiones, posturas de equilibrio.
 Respira conscientemente: Mantén una respiración profunda y controlada en cada postura.
 Mantén cada asana entre 15 y 60 segundos: Ajusta la duración según tu nivel y comodidad.
 Cierra con relajación y meditación: Dedica unos minutos a la postura de Savasana para integrar los beneficios.
-#Consejos y precauciones
+#Consejos 
+Sé constante: Practicar al menos 3 veces por semana mejora la flexibilidad y el bienestar.
+Escucha a tu cuerpo: No fuerces las posturas; avanza progresivamente.
+Usa accesorios si es necesario: Bloques, correas y cojines pueden ayudar a adaptar las posturas.
+Enfócate en la respiración: Es clave para mantener la estabilidad y la concentración.
+Realiza la práctica con ropa cómoda: Permite moverte sin restricciones.
+Integra la meditación y la relajación: No solo es físico, sino también mental y emocional.
+El yoga es una práctica accesible y adaptable que contribuye al equilibrio físico y mental, promoviendo un estilo de vida más saludable.
