@@ -22,4 +22,10 @@ Fuerza máxima: 2-3 minutos.
 Hipertrofia: 30-90 segundos.
 Resistencia: 15-45 segundos.
 Finaliza con estiramientos: Ayudan a mejorar la flexibilidad y reducir el riesgo de lesiones.
-#Consejos y precauciones 
+#Consejos 
+Prioriza la técnica sobre la carga: Es mejor hacer el ejercicio correctamente con menos peso que levantar demasiado con mala postura.
+Progresión gradual: Aumenta la carga o el número de repeticiones de manera progresiva.
+Descansa lo suficiente: Los músculos necesitan tiempo para recuperarse y crecer.
+Equilibra el entrenamiento: Trabaja todos los grupos musculares para evitar descompensaciones.
+Combina con una alimentación adecuada: Un buen consumo de proteínas y carbohidratos favorece la recuperación y el desarrollo muscular.
+Evita el sobreentrenamiento: No entrenes el mismo grupo muscular en días consecutivos.
