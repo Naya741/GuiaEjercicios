@@ -17,4 +17,10 @@ Mantén una intensidad moderada a alta: Usa la escala de esfuerzo percibido o un
 Duración: Realiza al menos 30 minutos de ejercicio, 3-5 veces por semana.
 Finaliza con un enfriamiento: Reduce la intensidad gradualmente y estira para evitar lesiones.
 
-#Consejos y precauciones 
+#Consejos 
+Varía los ejercicios: Alterna actividades para evitar el aburrimiento y trabajar diferentes músculos.
+Escucha a tu cuerpo: No te exijas demasiado si sientes dolor o fatiga extrema.
+Hidratación: Bebe suficiente agua antes, durante y después del ejercicio.
+Complementa con fuerza: Agrega ejercicios de resistencia para mejorar tu rendimiento.
+Mantén una postura adecuada: Evita encorvarte o hacer movimientos bruscos que puedan causar lesiones.
+Aprovecha el tiempo: Si no tienes 30 minutos seguidos, divide tu rutina en sesiones cortas.
