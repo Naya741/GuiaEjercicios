@@ -10,5 +10,11 @@ Mejora la salud del corazón: Fortalece el músculo cardíaco y mejora la circul
  Regula la presión arterial: Reduce el riesgo de enfermedades cardiovasculares.
  Mejora la salud mental: Libera endorfinas que combaten el estrés y la ansiedad.
  Controla los niveles de azúcar en sangre: Ayuda a prevenir la diabetes.
-#Instrucciones de como realizarlo
+#Instrucciones
+Calentamiento: Antes de iniciar, realiza 5-10 minutos de estiramientos dinámicos y ejercicios de movilidad.
+Elige un ejercicio adecuado: Correr, caminar rápido, nadar, saltar la cuerda, ciclismo o baile.
+Mantén una intensidad moderada a alta: Usa la escala de esfuerzo percibido o un monitor de frecuencia cardíaca.
+Duración: Realiza al menos 30 minutos de ejercicio, 3-5 veces por semana.
+Finaliza con un enfriamiento: Reduce la intensidad gradualmente y estira para evitar lesiones.
+
 #Consejos y precauciones 
