@@ -21,4 +21,11 @@ Mantén una técnica adecuada: Coordina el movimiento de brazos y piernas para m
 Varía la intensidad: Alterna entre nado suave, resistencia y velocidad.
 Finaliza con estiramientos: Evita la rigidez muscular con ejercicios de elongación fuera del agua.
 
-#Consejos y precauciones
+# Consejos y precauciones
+Usa equipo adecuado: Gorro, gafas y traje de baño cómodo mejoran la experiencia.
+Mejora tu técnica progresivamente: Aprende a moverte con menos esfuerzo y mayor velocidad.
+Mantén una postura hidrodinámica: Evita la resistencia del agua manteniendo el cuerpo alineado.
+Practica ejercicios específicos: Usa tablas y pull buoys para enfocarte en piernas o brazos.
+Hidrátate adecuadamente: Aunque no se sienta, se pierde líquido en el agua.
+Nada de forma constante: Para ver mejoras, practica al menos 2-3 veces por semana.
+La natación es un ejercicio completo que fortalece el cuerpo, mejora la resistencia y proporciona una sensación de bienestar general.
