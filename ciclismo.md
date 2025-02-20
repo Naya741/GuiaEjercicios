@@ -1,4 +1,4 @@
-#Agregar el titulo del ejercicio
+# Ciclismo
 #Descripcion del ejercicio
 #Beneficios del ejercicio
 #Instrucciones de como realizarlo 
