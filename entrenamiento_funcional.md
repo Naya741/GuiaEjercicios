@@ -25,4 +25,19 @@ Trabaja en intervalos de 30-60 segundos por ejercicio.
 Descansa entre 15-45 segundos según el nivel de intensidad.
 Progresión gradual: Aumenta la dificultad con variaciones, mayor resistencia o más repeticiones.
 Finaliza con estiramientos: Ayudan a relajar los músculos y mejorar la flexibilidad.
-#Consejos y precauciones
+#Consejos
+Enfócate en la técnica: Un buen control postural evita lesiones.
+Varía los ejercicios: Mantén la motivación cambiando la rutina regularmente.
+Trabaja todo el cuerpo: Diseña entrenamientos que activen diferentes grupos musculares.
+Usa el equipamiento adecuado: Mancuernas, bandas, balones y TRX pueden hacer los ejercicios más desafiantes.
+Mantén una intensidad adecuada: Ajusta los tiempos de trabajo y descanso según tu nivel.
+Escucha a tu cuerpo: Evita sobrecargas y respeta los tiempos de recuperación.
+El entrenamiento funcional es una excelente opción para mejorar el rendimiento físico y la calidad de vida, adaptándose a cualquier nivel de condición física.
+
+
+
+
+
+
+
+
